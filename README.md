@@ -1,4 +1,4 @@
-# 🚚📦 Shipping Performance Optimization for a DTC E-commerce Brand
+# 🚚📦 Shipping Performance Optimization for an E-commerce Brand
 
 ## Executive Summary
 
